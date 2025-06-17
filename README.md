@@ -4,7 +4,7 @@
 
 ---
 
-## 🕹️ Game Development
+## 🕹️ Game Dev
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
@@ -17,7 +17,7 @@ Languages:
 
 ---
 
-## 💻 Full Stack Development
+## 💻 Full Stack
 
 Frontend:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
