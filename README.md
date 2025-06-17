@@ -1,24 +1,23 @@
-# 👋 ¡Hola! Soy Juan
+# 👋 About Me
 
-🎮 Game dev y fullstack
+🎮 Game Developer & Full Stack Engineer
 
 ---
 
-
-## 🕹️ Game
+## 🕹️ Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-1a1a1a?style=flat&logo=phaser&logoColor=white)
 
-Lenguajes:
+Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=c-sharp&logoColor=white)
 
 ---
 
-## 💻 Full Stack
+## 💻 Full Stack Development
 
 Frontend:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -28,21 +27,21 @@ Backend:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-Frameworks de Java:
+Java Frameworks:
 ![Swing](https://img.shields.io/badge/Swing-007396?style=flat)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=flat)
 
-Bases de datos:
+Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/PLSQL-F80000?style=flat)
 
 ---
 
-## 🤖 Otros intereses
+## 🤖 Other Interests
 
-- Discord bots **Python**
-- Estadística **R**
-- Scripts de Minecraft
+- Discord bots with **Python**
+- Statistics with **R**
+- Minecraft scripting
 
 ---
 
@@ -53,11 +52,6 @@ Bases de datos:
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 📧 jg200470@gmail.com
-
----
-
-> 🎯 “El código es el pincel del desarrollador para pintar mundos interactivos.”
-
