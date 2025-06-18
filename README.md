@@ -1,6 +1,6 @@
 # 👋 About Me
 
-🎮 Game Developer & Full Stack Engineer
+🎮 Game Developer & Full Stack
 
 ---
 
